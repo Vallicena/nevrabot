@@ -1,0 +1,26 @@
+{
+  "name": "nevrabot",
+  "version": "1.0.0",
+  "description": "Bot for shadow guard discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello Nevra!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vallicena/nevrabot.git"
+  },
+  "keywords": [
+    "Eldarya",
+    "Shadow"
+  ],
+  "author": "Vallicena",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Vallicena/nevrabot/issues"
+  },
+  "homepage": "https://github.com/Vallicena/nevrabot#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+  
